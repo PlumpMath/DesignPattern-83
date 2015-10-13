@@ -15,4 +15,5 @@ url:http://blog.csdn.net/zhangerqing/article/details/8194653
 	com.objectAdapter：对象适配器模式
 	com.interfaceAdapter：接口适配器模式
 	com.decorator：装饰者模式
+	com.proxy：代理模式
 	
