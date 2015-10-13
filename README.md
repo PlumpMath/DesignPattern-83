@@ -6,3 +6,4 @@ com.normalFactory：普通工厂模式
 com.factoryMethod：工厂方法模式
 com.factoryStaticMethod：静态工厂方法模式
 com.abstractFactory：抽象工厂模式
+com.builder：建造者模式
