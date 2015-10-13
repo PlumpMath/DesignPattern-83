@@ -17,4 +17,5 @@ url:http://blog.csdn.net/zhangerqing/article/details/8194653
 	com.decorator：装饰者模式
 	com.proxy：代理模式
 	com.facade：外观模式
+	com.bridge：桥接模式
 	
