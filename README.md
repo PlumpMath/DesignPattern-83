@@ -11,4 +11,6 @@ url:http://blog.csdn.net/zhangerqing/article/details/8194653
 	com.builder：建造者模式
 	com.prototype：原型模式
 7种结构性模式：
-	
+	com.classAdapter：类适配器模式
+	com.objectAdapter：对象适配器模式
+	com.interfaceAdapter：接口适配器模式
