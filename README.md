@@ -21,4 +21,6 @@ http://blog.csdn.net/zhangerqing/article/details/8194653
 	com.bridge：桥接模式
 	com.Composite：组合模式
 	com.flyWeight：享元模式
+11种行为型模式：
+	com.strategy：策略模式
 	
