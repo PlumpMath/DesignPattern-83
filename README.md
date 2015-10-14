@@ -1,7 +1,8 @@
 # DesignPattern
 
 设计模式学习：
-url:http://blog.csdn.net/zhangerqing/article/details/8194653
+url:
+http://blog.csdn.net/zhangerqing/article/details/8194653
 5种创建性的模式：
 	com.normalFactory：普通工厂模式
 	com.factoryMethod：工厂方法模式
@@ -18,4 +19,5 @@ url:http://blog.csdn.net/zhangerqing/article/details/8194653
 	com.proxy：代理模式
 	com.facade：外观模式
 	com.bridge：桥接模式
+	com.Composite：组合模式
 	
