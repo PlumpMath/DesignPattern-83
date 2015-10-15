@@ -29,4 +29,6 @@ http://blog.csdn.net/zhangerqing/article/details/8194653
 	com.command：命令模式
 	com.memento：备忘录模式
 	com.state：状态模式
+	com.visitor：访问者模式，不明白怎么用
+	
 	
