@@ -27,4 +27,5 @@ http://blog.csdn.net/zhangerqing/article/details/8194653
 	com.iterator：迭代器模式
 	com.responsibility：责任链模式
 	com.command：命令模式
+	com.memento：备忘录模式
 	
