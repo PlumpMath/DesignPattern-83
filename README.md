@@ -24,6 +24,7 @@ http://blog.csdn.net/zhangerqing/article/details/8194653
 11种行为型模式：
 	com.strategy：策略模式
 	com.template：模版方法模式
+	com.observer：观察者模式
 	com.iterator：迭代器模式
 	com.responsibility：责任链模式
 	com.command：命令模式
@@ -31,6 +32,6 @@ http://blog.csdn.net/zhangerqing/article/details/8194653
 	com.state：状态模式
 	com.visitor：访问者模式，不明白怎么用
 	com.mediator：中介者模式，不了解这有什么应用场景
-	
+	com.interpreter：解释器模式
 	
 	
