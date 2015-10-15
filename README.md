@@ -24,4 +24,5 @@ http://blog.csdn.net/zhangerqing/article/details/8194653
 11种行为型模式：
 	com.strategy：策略模式
 	com.template：模版方法模式
+	com.iterator：迭代器模式
 	
