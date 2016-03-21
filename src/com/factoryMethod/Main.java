@@ -2,10 +2,8 @@ package com.factoryMethod;
 
 public class Main {
 	public static void main(String[] args) {
-		MobileFactory mf = new MobileFactory();
-		Mobile samsung = mf.samsunBuild();
-		Mobile huawei = mf.huaweiBuild();
+		MobileFactory fac = new SamsungFactory();
+		Mobile samsung = fac.build();
 		samsung.runFunc();
-		huawei.runFunc();
 	}
 }

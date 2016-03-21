@@ -1,4 +1,4 @@
-package com.abstractFactory;
+package com.factoryMethod;
 
 public class SamsungFactory implements MobileFactory {
 	@Override

@@ -1,4 +1,4 @@
-package com.abstractFactory;
+package com.factoryMethod;
 
 public class HuaweiFactory implements MobileFactory {
 	@Override
